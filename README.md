@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omnia Saad Khalifa</h1>
 <h3 align="center">A passionate DevOps Engineer and Teaching Assistant from Egypt 🇪🇬</h3>
 
+- 🌱 I’m currently learning **Agentic AI**
 - 🔭 I’m currently working as a **DevOps Engineer** at **Silverkey Technologies**  
 - 👩‍🏫 Also serving as a **Teaching Assistant** at **MSA University**, delivering courses in *Electrical Circuits*, *Digital Logic Design*, and *Programming I*  
 - 💬 Ask me about **DevOps, Cloud Infrastructure, CI/CD, and Linux Administration**  
